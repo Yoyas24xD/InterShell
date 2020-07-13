@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#Si llegas a encontrar problemas de funcionamiento con este script debido a temas de la distribucion de teclado, prueba con la version mod.
 from pynput.keyboard import Key, Controller
 from time import sleep
 #Funciones
